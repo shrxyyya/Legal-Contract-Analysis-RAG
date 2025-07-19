@@ -1,0 +1,9 @@
+sentence-transformers
+unstructured[pdf]
+unstructured[local-inference]
+pinecone
+rank-bm25
+gradio
+pdfplumber
+transformers
+torch
